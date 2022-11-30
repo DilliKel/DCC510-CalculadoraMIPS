@@ -20,3 +20,16 @@ O objetivo desse trabalho é fazer um programa em Assembly MIPS que simule uma c
 |      |         |                      |                          |
 |quit:	|8|	Fim do programa					                        | sem retorno|
 |      |                               |                          |
+
+
+Observações importantes:
+
+* O programa deve ser totalmente comentado, linha por linha.
+
+* Gravar um vídeo explicando o código;
+
+* Deve ser enviado o arquivo com o código e um arquivo de vídeo.
+
+* Sempre que uma operação for concluída deve-se retornar ao menu principal. O encerramento do programa somente deverá ocorrer com a opção “Encerrar o programa”.
+
+* Não considere números negativos.
